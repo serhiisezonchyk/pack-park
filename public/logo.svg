@@ -1,0 +1,15 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#2196F3" />
+  
+  <!-- Backpack Icon -->
+  <rect x="65" y="70" width="70" height="80" rx="10" fill="white" stroke="#1565C0" stroke-width="5"/>
+  <circle cx="85" cy="85" r="5" fill="#1565C0" />
+  <circle cx="115" cy="85" r="5" fill="#1565C0" />
+  
+  <!-- Shop/Pin Icon -->
+  <path d="M100,130 Q120,110 140,130 L100,180 Z" fill="#BBDEFB" stroke="#1976D2" stroke-width="3" />
+  
+  <!-- 'P' Symbol for Park -->
+  <text x="80" y="60" font-family="Arial" font-size="40" fill="white" font-weight="bold">P</text>
+</svg>
