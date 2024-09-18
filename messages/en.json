@@ -1,0 +1,54 @@
+{
+  "NotFoundPage": {
+    "title": "Page Not Found",
+    "description": "Oops! The page you're looking for doesn't exist.",
+    "button": "Return Home"
+  },
+  "Nav": {
+    "navigation": {
+      "forTravelers": "For travelers",
+      "becomeAPartner": "Become a partner",
+      "about": "About"
+    }
+  },
+  "Hero": {
+    "locations": "10,000+ locations reviewed to keep your luggage safe",
+    "header": "Luggage storage near you",
+    "price": "Freedom to explore from $1,05 / hour"
+  },
+  "HeroForm": {
+    "inputPlaceHolder": "Search city...",
+    "quantityUnits": "Pc.",
+    "buttonText": "Find closest location"
+  },
+  "HeroSwiperSection": {
+    "data": {
+      "freeCancellation": "Free cancellation",
+      "locationsGlobally": "10,000+ locations globally",
+      "pricePerDay": "from $4.13/day",
+      "ratedByPeople": "Rated 4.9 by 628,581+ people",
+      "protection": "$10,000 protection"
+    }
+  },
+  "HowItWorksSection": {
+    "header": "How it works"
+  },
+  "LanguageMenu": {
+    "title": "Language"
+  },
+  "Filters": {
+    "cityHeader": "Choose city",
+    "cityPlaceholder": "City...",
+    "dateHeader": "When do you want to drop your bags?",
+    "startDateHeader": "Start",
+    "endDateHeader": "End",
+    "countHeader": "Choose the number and types of bags",
+    "smallTitle": "Small",
+    "smallDescription": "Small backpacks, purses",
+    "largeTitle": "Large",
+    "largeDescription": "Suitcases, oversizes backpacks"
+  },
+  "DateTimePicker":{
+    "timeLabel":"Time"
+  }
+}

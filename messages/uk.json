@@ -1,0 +1,55 @@
+{
+  "NotFoundPage": {
+    "title": "Сторінку не знайдено",
+    "description": "Ой! Сторінка, яку ви шукаєте, не існує.",
+    "button": "На головну"
+  },
+  "Nav": {
+    "navigation": {
+      "forTravelers": "Мапа",
+      "becomeAPartner": "Стати партнером",
+      "about": "Про нас"
+    }
+  },
+  "Hero": {
+    "locations": "10 000+ оглянутих місць, щоб зберегти ваш багаж у безпеці",
+    "header": "Зберігання багажу поруч з вами",
+    "price": "Свобода досліджувати від $1,05 / година"
+  },
+  "HeroForm": {
+    "inputPlaceHolder": "Шукати місто...",
+    "quantityUnits": "шт.",
+    "buttonText": "Знайти найближче місце"
+  },
+  "HeroSwiperSection": {
+    "data": {
+      "freeCancellation": "Безкоштовне скасування",
+      "locationsGlobally": "10 000+ локацій по всьому світу",
+      "pricePerDay": "від $4,13/день",
+      "ratedByPeople": "Оцінено 4.9 понад 628 581 користувачем",
+      "protection": "Захист на суму $10 000"
+    }
+  },
+  "HowItWorksSection": {
+    "header": "Як це працює?"
+  },
+  "LanguageMenu": {
+    "title": "Мова"
+  },
+
+  "Filters": {
+    "cityHeader": "Виберіть місто",
+    "cityPlaceholder": "Місто...",
+    "dateHeader": "Коли ви хочете залишити свої речі?",
+    "startDateHeader": "Початок",
+    "endDateHeader": "Кінець",
+    "countHeader": "Виберіть кількість і типи сумок",
+    "smallTitle": "Маленька",
+    "smallDescription": "Маленькі рюкзаки, сумочки",
+    "largeTitle": "Велика",
+    "largeDescription": "Валізи, великі рюкзаки"
+  },
+  "DateTimePicker":{
+    "timeLabel":"Час"
+  }
+}
